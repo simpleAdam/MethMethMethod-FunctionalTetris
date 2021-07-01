@@ -1,0 +1,14 @@
+{
+  "name": "MethMethMethod-FunctionalTetris",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/simpleAdam/MethMethMethod-FunctionalTetris.git",
+  "author": "Adam <adamjh1983@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  },
+  "scripts":{
+    "test":"jest"
+  }
+}
