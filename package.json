@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/simpleAdam/MethMethMethod-FunctionalTetris.git",
-  "author": "Adam <adamjh1983@gmail.com>",
+  "author": "Adam ",
   "license": "MIT",
   "devDependencies": {
     "jest": "^27.0.6"
